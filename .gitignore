@@ -4,3 +4,8 @@
 *.txt
 
 *.jsp
+
+!eight.jsp
+
+[aeiou]*.txt
+
